@@ -1,1 +1,1 @@
-R Markdown files for builing predictve models for Data Mining Purposes
+R Markdown Output files for builing predictve models for Data Mining Purposes
